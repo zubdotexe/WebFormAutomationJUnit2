@@ -16,3 +16,10 @@
 ## How to run?  
 Run the following command in the terminal inside the project directory:  
 `gradle clean test`  
+
+## Output  
+### Report 
+![junit_webform_submission_report](https://github.com/user-attachments/assets/49d1250c-e1b0-42e7-ab4c-14273fd557f4)  
+
+### Demonstration video  
+https://github.com/user-attachments/assets/a5c26a82-ec70-4f4c-82ad-ba4dc3138dc4
