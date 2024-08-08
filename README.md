@@ -1,4 +1,4 @@
-# Project Title: Automation of Web Form using JUnit  
+# Project Title: Automation of Web Form Submission using JUnit  
 
 ### Project Summary: A web form having fields such as First Name, Last Name, User Email (Mandatory), Gender, User Password (Mandatory), Date of Birth, Nationality, Phone, Country and Terms and Conditions (Mandatory) has been automated using JUnit, a framework of Selenium. Later, the submission has been asserted by matching the message "User successfully registered" below that appthe form.  
 
